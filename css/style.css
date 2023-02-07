@@ -1,0 +1,37 @@
+body {
+    background: #d2d2c1 url(imgs-projeto-anna-bella/fundo.png);
+    font-family: sans-serif;
+}
+
+#navbar {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: #4b566a;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.content {
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+#fundo {
+    width: 900px;
+}
+
+#footer h4 {
+    text-align: center;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+.content img {
+    border: 10px solid #c3c3ae;
+}
