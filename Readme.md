@@ -11,6 +11,8 @@ como por exemplo: bordas e cores, seletores, classes e id's, entre outros conhec
 --------------------
 ![Página do site Anna Bella](./imgs-projeto-anna-bella/P%C3%A1gina_Anna%20Bella.png)
 
+##### wisely done by Marlok :earth_americas:
+
 
 
 
